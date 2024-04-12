@@ -41,36 +41,36 @@ hek@nula.com.tr
 
 ### EN
 
-	This program is an anti-virus against Parity-B, a file virus that runs on MS Windows 32bit 
+This program is an anti-virus against Parity-B, a file virus that runs on MS Windows 32bit 
 operating systems. All folders and subfolders in the specified drive scans the files in the 
 folders. If it finds an infected file, it warns the user and removes the virus if the user 
 confirms the action. Once completed the user displays the report.
 
-Notes:
+#### Notes:
 	
-	> 	Originally developed with Borland C++Builder 6.0. Updated for Dev-C++ before release 
+	Originally developed with Borland C++Builder 6.0. Updated for Dev-C++ before release 
 	from @AIntellient's GitHub account.
 
-	>	Some personal information has been updated.
+	Some personal information has been updated.
 
-	>	Nowadays, MS Windows operating systems are quite advanced and malware like Parity-B 
+	Nowadays, MS Windows operating systems are quite advanced and malware like Parity-B 
 	are no longer there as effective solutions have been found. Therefore, the current accuracy 
 	of the Parity-B cleaner could not be determined.
 
-!!! Attention !!!:
+#### !!! Attention !!!:
 
-	>	If you want to use this cleaner on your computer, you are responsible for all negative 
+	If you want to use this cleaner on your computer, you are responsible for all negative 
 	situations.
 
-	>	Compatibility issues may arise.
+	Compatibility issues may arise.
 
-History:
+#### History:
 	
 	> 10/04/2024
-    	>	Some personal information has been updated.
-      > 	Recompiled with Dev-C++.
+    		> Some personal information has been updated.
+      		> Recompiled with Dev-C++.
 	> 01/02/2008
-     	> Produced and compiled with Borland C++Builder 6.0.
+     		> Produced and compiled with Borland C++Builder 6.0.
 
 Written by Hakan Emre KARTAL in Iskenderun/HATAY on 01/02/2008,
 developed with Borland C++Builder 6.0
