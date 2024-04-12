@@ -36,9 +36,6 @@ rapor görüntüler.
 Hakan Emre KARTAL tarafından İskenderun/HATAY'da 01/02/2008 tarihinde
 Borland C++Builder 6.0 ile geliştirildi.
 
-Hakan Emre KARTAL
-hek@nula.com.tr 
-
 ### EN
 
 This program is an anti-virus against Parity-B, a file virus that runs on MS Windows 32bit 
