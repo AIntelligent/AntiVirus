@@ -2,28 +2,28 @@
 
 ### TR
 
-	Bu program, MS Windows 32bit işletim sitemlerinde çalışan ve bir dosya virüsü 
-	olan Parite-B'nin temizleyicisidir. Belirtilen sürücüdeki tüm klasörler ve alt 
-	klasörlerdeki dosyaları tarar. Eğer virüslü bir dosya bulursa kullanıcıyı uyarır 
-	ve kullnıcı işlem onayı verirse virüsü temizler. Tamamlandığında kullanıcıya 
-	rapor görüntüler.
+Bu program, MS Windows 32bit işletim sitemlerinde çalışan ve bir dosya virüsü 
+olan Parite-B'nin temizleyicisidir. Belirtilen sürücüdeki tüm klasörler ve alt 
+klasörlerdeki dosyaları tarar. Eğer virüslü bir dosya bulursa kullanıcıyı uyarır 
+ve kullnıcı işlem onayı verirse virüsü temizler. Tamamlandığında kullanıcıya 
+rapor görüntüler.
 
 #### Not(lar):
 
-	>	İlk olarak Borland C++Builder 6.0 ile geliştirilmiştir. AIntelligent GitHub
+	İlk olarak Borland C++Builder 6.0 ile geliştirilmiştir. AIntelligent GitHub
 	hesabından yayımlamadan önce Dev-C++ için uyarlanmıştır. Bazı kişisel bilgiler
 	güncellenmiştir. 
 
-	>	Günümüzde, MS Windows işletim sistemleri çok geliştiği ve Parite-B gibi zararlılar 
+	Günümüzde, MS Windows işletim sistemleri çok geliştiği ve Parite-B gibi zararlılar 
 	için etkin çözümler bulunduğundan, artık eskisi gibi yayılamıyorlar. Dolayısıyla, Parite-B
 	temizleyicisinin güncel doğruluğu tespit edilememiştir.
 
 #### !!! Dikkat !!!: 
 		
-	>	Eğer bu temizleyiciyi bilgisayarınızda kullanmak isterseniz, oluşabilecek
+	Eğer bu temizleyiciyi bilgisayarınızda kullanmak isterseniz, oluşabilecek
 	tüm olumsuz durumlar için sorumluluk size aittir.
 
-	>	Uyarlamadan kaynaklı sorunlar bulunabilir.
+	Uyarlamadan kaynaklı sorunlar bulunabilir.
 
 #### Tarihçe:
 
