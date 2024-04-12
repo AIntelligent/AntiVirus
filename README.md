@@ -18,14 +18,14 @@
 	için etkin çözümler bulunduğundan, artık eskisi gibi yayılamıyorlar. Dolayısıyla, Parite-B
 	temizleyicisinin güncel doğruluğu tespit edilememiştir.
 
-!!! Dikkat !!!: 
+#### !!! Dikkat !!!: 
 		
 	>	Eğer bu temizleyiciyi bilgisayarınızda kullanmak isterseniz, oluşabilecek
 	tüm olumsuz durumlar için sorumluluk size aittir.
 
 	>	Uyarlamadan kaynaklı sorunlar bulunabilir.
 
-Tarihçe:
+#### Tarihçe:
 
 	> 10/04/2024
    		> Bazı kişisel bilgiler güncellendi.
