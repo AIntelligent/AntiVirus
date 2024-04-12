@@ -8,7 +8,7 @@
 	ve kullnıcı işlem onayı verirse virüsü temizler. Tamamlandığında kullanıcıya 
 	rapor görüntüler.
 
-# Not(lar):
+#### Not(lar):
 
 	>	İlk olarak Borland C++Builder 6.0 ile geliştirilmiştir. AIntelligent GitHub
 	hesabından yayımlamadan önce Dev-C++ için uyarlanmıştır. Bazı kişisel bilgiler
