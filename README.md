@@ -70,7 +70,7 @@ confirms the action. Once completed the user displays the report.
     		> Some personal information has been updated.
       		> Recompiled with Dev-C++.
 	> 01/02/2008
-     		> Produced and compiled with Borland C++Builder 6.0.
+     	 	> Produced and compiled with Borland C++Builder 6.0.
 
 Written by Hakan Emre KARTAL in Iskenderun/HATAY on 01/02/2008,
 developed with Borland C++Builder 6.0
